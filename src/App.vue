@@ -16,7 +16,7 @@
 
         <div class='container'>
             <div>
-                Drag top-left corner of box to a page
+                Drag top-left corner of box to a page.
             </div>
 
             <Page page-number='1'/> 
