@@ -1,4 +1,3 @@
-#  I added this 12.7.2021
 # Wavy BG 
 
 Here are four resizable/colorable SVG backgrounds with the 2019 trending curve.
